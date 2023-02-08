@@ -1,0 +1,4 @@
+Number1 = 20
+Number2 = 30
+sum = $(($Number1+$Number2))
+echo "Sum of two numbers: " $sum
